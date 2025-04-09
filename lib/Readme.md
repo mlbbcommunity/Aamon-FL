@@ -1,0 +1,1 @@
+Wamlbbcommunity-property. 
