@@ -1,0 +1,13 @@
+services:
+  - name: aamon-fl-service
+    type: web
+    runtime: node
+    env: node
+    buildCommand: 'npm install'
+    startCommand: 'npm start'
+    region: frankfurt # Change to your preferred region
+    plan: free # Change to 'starter' or other paid plans as needed
+    branch: main # Adjust to the branch you want to deploy from
+    envVars:
+      - key: NODE_ENV
+        value: production
