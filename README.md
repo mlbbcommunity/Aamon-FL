@@ -16,7 +16,7 @@
 
 *_Start by forking this repository to your own GitHub account. Click the button below to fork:_*
 
-  <a href="https://github.com/mlbbcommunity/Wamlbbcommunity-Aamon-FL/fork"><img title="Wamlbbcommunity-Aamon-FL" src="https://img.shields.io/badge/FORK-Wamlbbcommunity-Aamon-FLh?color=darkblue&style=for-the-badge&logo=stackshare"></a>
+  <a href="https://github.com/mlbbcommunity/Aamon-FL/fork"><img title="Aamon-FL" src="https://img.shields.io/badge/FORK-Aamon-FLh?color=darkblue&style=for-the-badge&logo=stackshare"></a>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
@@ -39,12 +39,12 @@
    
   1..DEPLOY ON HEROKU ⤵️
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fmlbbcommunity%2FWamlbbcommunity-Aamon-FL) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fmlbbcommunity%2FAamon-FL) 
    
    
   2..DEPLOY ON RENDER ⤵️
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/mlbbcommunity/Wamlbbcommunity-Aamon-FL.git)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/mlbbcommunity/Aamon-FL.git)
 
 
    3..DEPLOY ON GITHUB ⤵️
