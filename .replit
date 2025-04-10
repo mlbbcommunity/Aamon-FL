@@ -1,1 +1,0 @@
-run = "node Plugins/setting.js" # Change this to the actual main script of your bot
