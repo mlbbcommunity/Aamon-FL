@@ -1,7 +1,7 @@
    # Aamon-FL
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
-𝐒𝐢𝐦𝐩𝐥𝐞 𝐁𝐞𝐬𝐭 𝐖𝐡𝐚𝐭𝐬𝐚𝐩𝐩 𝐁𝐨𝐭 𝐂𝐫𝐞𝐚𝐭𝐞𝐝 𝐁𝐲 Ｆｌｕｆｆｙ Ｆｏｘ ✨💫
+𝐒𝐢𝐦𝐩𝐥𝐞 𝐁𝐞𝐬𝐭 𝐖𝐡𝐚𝐭𝐬𝐚𝐩𝐩 𝐁𝐨𝐭 𝐂𝐫𝐞𝐚𝐭𝐞𝐝 𝐁𝐲    Ｆｌｕｆｆｙ Ｆｏｘ ✨💫
 <div class = "repo" align = "center">
  
 <a href = "#">
@@ -24,7 +24,7 @@
 
 > To deploy, generate your session ID from the link below:
 <p align="left">
-  <a href="https://mlbbcommunity-wamlbbcommunity-aamon-fl.onrender.com/?">
+  <a href="https://mlbbcommunity-wamlbbcommunity-aamon-fl-p24s.onrender.com/">
     <img src="https://img.shields.io/badge/%F0%9F%9A%80%20GET%20PAIR%20CODE%20WEB-ffcc00?style=for-the-badge"/>
   </a>
 </p>
