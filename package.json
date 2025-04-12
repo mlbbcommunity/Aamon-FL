@@ -49,9 +49,6 @@
     "@mrnima/tiktok-downloader":"1.0.0",
     "@mrnima/facebook-downloader":"1.0.0",
     "mrnima-moviedl":"1.0.0"
-    "engines": {
-  "node": ">=16.0.0 <18.0.0"
-    }
     }
   }
 
