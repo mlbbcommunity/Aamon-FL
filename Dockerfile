@@ -1,5 +1,5 @@
 FROM node:lts-buster
-RUN git clone https://github.com/mlbbcommunity/Aamon-FL/root/mlbbcommunity
+RUN git clone https://github.com/mlbbcommunity/Aamon-FL .
 WORKDIR /root/mlbbcommunity
 RUN yarn install
 COPY . .
