@@ -1,4 +1,4 @@
-name: Deploy Node.js Application
+name: Node.js CI
 
 on:
   push:
@@ -9,33 +9,20 @@ on:
       - main
 
 jobs:
-  build-and-deploy:
-    name: Build and Deploy
+  deploy:
     runs-on: ubuntu-latest
 
     steps:
-      # Step 1: Check out the repository
-      - name: Checkout Code
+      - name: Checkout repository
         uses: actions/checkout@v3
 
-      # Step 2: Set up Node.js environment
       - name: Set up Node.js
         uses: actions/setup-node@v3
         with:
-          node-version: '20.x'
+          node-version: 20.x
 
-      # Step 3: Install dependencies
-      - name: Install Dependencies
+      - name: Install dependencies
         run: npm install
 
-      # Step 4: Run tests (Optional, remove if not needed)
-      - name: Run Tests
-        run: npm test
-
-      # Step 5: Build the application (Optional if your app has a build step)
-      - name: Build Application
-        run: npm run build
-
-      # Step 6: Deploy the application (You can customize this for your needs)
-      - name: Deploy Application
+      - name: Start application
         run: npm start
