@@ -34,7 +34,7 @@ const ownerNumber = ['27683913716']
 //===================SESSION-AUTH============================
 if (!fs.existsSync(__dirname + '/sessions/creds.json')) {
     if(!config.SESSION_ID) return console.log('Please add your session to SESSION_ID env !!')
-    const sessdata = config.SESSION_ID.replace("Aamon-FL~jA5EzZDY#D1GbRScIt5B-EJZ-8pwgw0bH5WCNmZRO2EOonBGMbmc", '');
+    const sessdata = config.SESSION_ID.replace("Aamon-FL~bIpUGCRT#yw1hys4GFUjBebTP0dpK-JZ3VfUfPx9U29JuQ3db-6I", '');
     const filer = File.fromURL(`https://mega.nz/file/${sessdata}`)
     filer.download((err, data) => {
         if(err) {
