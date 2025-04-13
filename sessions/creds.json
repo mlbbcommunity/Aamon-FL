@@ -1,5 +1,5 @@
 {
-  "SESSION_ID": "Aamon-FL~eVoHgZST#wsoolOk9NlfKc7dTS_X_BYWGr1JTQa49D_9iyMM5z20",
+  "SESSION_ID": "https://mega.nz/file/bIpUGCRT#yw1hys4GFUjBebTP0dpK-JZ3VfUfPx9U29JuQ3db-6I",
   "AUTO_READ_STATUS": "true",
   "MODE": "public",
   "AUTO_VOICE": "false",
@@ -21,7 +21,7 @@
   "BOT_NAME": "『Aamon-FL』",
   "OMDB_API_KEY": "f963088",
   "OWNER_NUMBER": ["27683913716"],
-  "MEGA_FILE_URL": "https://mega.nz/file/actual-mega-file-url",
+  "MEGA_FILE_URL": "https://mega.nz/file/bIpUGCRT#yw1hys4GFUjBebTP0dpK-JZ3VfUfPx9U29JuQ3db-6I",
   "PORT": 9090,
   "DB_URI": "postgresql://aamon_fl5_user:gdITmu8xhfNZxqVPp6DJGqIcmjhskNdf@dpg-cvtl7lbe5dus73aaqoug-a.frankfurt-postgres.render.com/aamon_fl5"
 }
