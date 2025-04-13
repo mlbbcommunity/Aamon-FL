@@ -21,8 +21,7 @@
   "BOT_NAME": "『Aamon-FL』",
   "OMDB_API_KEY": "f963088",
   "OWNER_NUMBER": ["27683913716"],
-  "MEGA_FILE_URL": "https://mega.nz/file/your-mega-file-url",
+  "MEGA_FILE_URL": "https://mega.nz/file/actual-mega-file-url",
   "PORT": 9090,
-  "WEBHOOK_URL": "https://your-webhook-url.com",
   "DB_URI": "mongodb://localhost:27017/aamon-fl"
 }
