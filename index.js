@@ -1,6 +1,3 @@
-
-
-
 const {
 default: makeWASocket,
 useMultiFileAuthState,
@@ -38,7 +35,7 @@ const ownerNumber = ['27683913716']
 if (!fs.existsSync(__dirname + '/sessions/creds.json')) {
 if(!config.SESSION_ID) return console.log('Please add your session to SESSION_ID env !!')
 const sessdata = config.SESSION_ID.replace("Aamon-FL~jA5EzZDY#D1GbRScIt5B-EJZ-8pwgw0bH5WCNmZRO2EOonBGMbmc", '');
-const filer = File.fromURL(`https://mega.nz/file/${sessdata}`)
+const filer = File.fromURL(`https://mega.nz/folder/6Qgi2RjK#L5-vXrbjo6N4S8KmzxPSAw`)
 filer.download((err, data) => {
 if(err) throw err
 fs.writeFile(__dirname + '/sessions/creds.json', data, () => {
