@@ -23,5 +23,5 @@
   "OWNER_NUMBER": ["27683913716"],
   "MEGA_FILE_URL": "https://mega.nz/file/actual-mega-file-url",
   "PORT": 9090,
-  "DB_URI": "mongodb://localhost:27017/aamon-fl"
+  "DB_URI": "postgresql://aamon_fl5_user:gdITmu8xhfNZxqVPp6DJGqIcmjhskNdf@dpg-cvtl7lbe5dus73aaqoug-a.frankfurt-postgres.render.com/aamon_fl5"
 }
